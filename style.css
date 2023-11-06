@@ -2192,7 +2192,7 @@ html {
 @media screen and (min-width: 40em) {
   /* 640px */
   html {
-    font-size: 75.5%;
+    font-size: 55.5%;
   }
 
   h1.large {
@@ -2203,7 +2203,7 @@ html {
 @media screen and (min-width: 57.5em) {
   /* 920px */
   html {
-    font-size: 82.5%;
+    font-size: 62.5%;
   }
 
   h1.large {
